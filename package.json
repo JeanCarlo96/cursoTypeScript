@@ -1,0 +1,22 @@
+{
+  "name": "cursotypescript",
+  "version": "1.0.0",
+  "description": "Ejercicios que se hacen dentro del curso de TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanCarlo96/cursoTypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeanCarlo96/cursoTypeScript/issues"
+  },
+  "homepage": "https://github.com/JeanCarlo96/cursoTypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
