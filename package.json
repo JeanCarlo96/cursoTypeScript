@@ -4,7 +4,7 @@
   "description": "Ejercicios que se hacen dentro del curso de TypeScript",
   "main": "index.js",
   "scripts": {
-    "build": "tsc clases.ts"
+    "build": "tsc getterSetter.ts"
   },
   "repository": {
     "type": "git",
