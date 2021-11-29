@@ -4,7 +4,7 @@
   "description": "Ejercicios que se hacen dentro del curso de TypeScript",
   "main": "index.js",
   "scripts": {
-    "build": "tsc enumeradoresDos.ts"
+    "build": "tsc tiposGenericos.ts"
   },
   "repository": {
     "type": "git",
