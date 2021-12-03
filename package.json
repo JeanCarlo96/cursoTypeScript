@@ -4,7 +4,7 @@
   "description": "Ejercicios que se hacen dentro del curso de TypeScript",
   "main": "index.js",
   "scripts": {
-    "build": "tsc tiposUtiles.ts"
+    "build": "tsc facturas.ts"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/JeanCarlo96/cursoTypeScript#readme",
   "devDependencies": {
     "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "is-what": "^4.1.0"
   }
 }
